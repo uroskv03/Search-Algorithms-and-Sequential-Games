@@ -1,0 +1,11 @@
+INFO: Starting simulation ...
+INFO: 
+Round 1 / 10
+In state
+0 B _ 0
+_ _ _ _
+A _ _ _
+0 _ _ 0
+agent A chose action ((2, 0), (2, 3)) from actions [((2, 0), (1, 0)), ((2, 0), (2, 3)), ((2, 0), (2, 1)), ((2, 0), (2, 0))]
+Think time was 0.50 seconds.
+
