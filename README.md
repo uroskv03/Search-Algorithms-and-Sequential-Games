@@ -1,6 +1,6 @@
 # Search-Algorithms
 
-Developed pathfinding agents in Python using DFS, Branch and Bound, and A*.
+Developed pathfinding agents in Python using 3 different algorithams: DFS, Branch and Bound, and A*.
 
 
 # Sequential-Games
